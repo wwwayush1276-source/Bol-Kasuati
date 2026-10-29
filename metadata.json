@@ -1,0 +1,6 @@
+{
+  "name": "BOL-KASAUTI (बोल-कसौटी) — Indic AI Safety & Verification Engine",
+  "description": "Production-ready, zero-C++-dependency Indic AI safety verification platform with 3-layer deterministic mathematical risk scoring, live web grounding scanner, and SHA-256 cryptographic vault.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
